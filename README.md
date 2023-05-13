@@ -95,7 +95,3 @@ Options:
   -s SAVEDIR, --savedir=SAVEDIR
                         Which folder should use for saving the results.
 ```
-
-## Authors of the Code
-
-* **Mauro Méndez** - [mamemo](https://github.com/mamemo)
