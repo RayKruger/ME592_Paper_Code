@@ -1,6 +1,4 @@
-# UNet for Instance Cell Segmentation on Pytorch
-
-This project aims to perform well at instance segmentation on the BBBC006 cells dataset. We tested UNet over several configurations including the loss function, evaluation function and the datasets.
+# UNet for Lane Detction on Pytorch
 
 ## Getting Started
 
@@ -101,14 +99,3 @@ Options:
 ## Authors of the Code
 
 * **Mauro Méndez** - [mamemo](https://github.com/mamemo)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* All of the UNet implementations that cross into my way.
-* Jose Carranza - [maeotaku](https://github.com/maeotaku) - for helping in the misc files.
